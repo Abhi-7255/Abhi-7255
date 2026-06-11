@@ -1,107 +1,84 @@
-# Hi 👋, I'm Abhiranjan Kumar Singh
+# Abhiranjan Kumar Singh
 
-### Full Stack Web Developer | AIML Enthusiast | Problem Solver
+<div align="center">
 
-💻 Passionate about building responsive and scalable web applications  
-🤖 Interested in Artificial Intelligence & Machine Learning  
-📚 Currently improving Data Structures and Algorithms  
-🚀 Focused on real-world projects and clean code practices  
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Abhiranjan%20Kumar%20Singh&fontColor=ffffff&fontSize=45&fontAlignY=40" width="100%" />
 
----
+# Full Stack Developer | AI & ML Engineer
 
-## 👨‍💻 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge)](https://abhi-singh.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge)](https://www.linkedin.com/in/abhiranjan-singh72)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge)](https://github.com/Abhi-7255)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge)](https://leetcode.com/u/Abhiranjan_Singh/)
 
-- 🎓 B.Tech CSE (AI & ML) student at Brainware University
-- 🌱 Learning Full Stack Development and Machine Learning
-- 🔭 Worked on AI-Based Skin Recognition System
-- 💡 Interested in Web Development, AI, and Open Source
-- ⚡ Love exploring tech communities and new technologies
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+
+B.Tech CSE (AI & ML) graduate from Brainware University with CGPA 8.56 and percentage 80.94%. Passionate about Full Stack Development, Software Engineering, AI/ML, and scalable web applications.
+
+## Tech Stack
 
 ### Languages
-- Python
-- Java
-- JavaScript
+Java • Python • JavaScript
 
 ### Frontend
-- HTML
-- CSS
-- React.js
-- Bootstrap
+HTML • CSS • React.js • Bootstrap
 
 ### Backend
-- Node.js
-- Express.js
-- REST APIs
-- Flask
+Node.js • Express.js • REST APIs
 
 ### Database
-- MySQL
-- MongoDB
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Anaconda
+MongoDB • MySQL
 
 ---
 
-## 📌 Projects
+## Experience
+
+### Frontend Developer Intern | Bharat Gaming News
+**July 2025 – October 2025**
+
+- Developed responsive web pages
+- Integrated REST APIs
+- Improved UI performance
+- Fixed frontend issues
+
+---
+
+## Featured Project
 
 ### AI-Based Skin Recognition System
-- Developed an AI-powered skin recognition system using CNN
-- Built backend with Flask for real-time predictions
-- Used OpenCV for image preprocessing
-- Managed prediction data using MySQL
 
-**Tech Stack:** HTML5, CSS3, Flask, OpenCV, CNN, MySQL
-
----
-
-## 💼 Internship Experience
-
-### Frontend Developer Intern — Bharat Gaming News
-📅 July 2025 – October 2025
-
-- Developed responsive web pages using HTML, CSS, JavaScript, and Bootstrap
-- Integrated REST APIs for dynamic content
-- Improved UI performance and cross-browser compatibility
+- CNN-based image classification
+- Flask backend
+- OpenCV image processing
+- MySQL database integration
+- Real-time predictions
 
 ---
 
-## 📚 Coursework
+## Certifications
 
-- Data Structures & Algorithms
-- DBMS
-- Operating Systems
-- Computer Networks
-- OOPS
-- Machine Learning
+- Full Stack Web Development (MERN Stack) – Apna College
+- Data Structures & Algorithms with Java – Apna College
 
 ---
 
-## 🌐 Connect With Me
+## GitHub Analytics
 
-- 📧 Email: abhiranjansingh7255@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/abhiranjan-singh
-- 🖥️ GitHub: github.com/Abhi-7255
+![Stats](https://github-readme-stats.vercel.app/api?username=Abhi-7255&show_icons=true&theme=tokyonight)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-7255&layout=compact&theme=tokyonight)
 
-## 🌍 Languages
-
-- English
-- Hindi
-- Bengali
+![Streak](https://streak-stats.demolab.com?user=Abhi-7255&theme=tokyonight)
 
 ---
 
-## 🎵 Hobbies
+## Connect
 
-Listening to music 🎧  
-Watching movies 🎬  
-Exploring tech communities 💻
+- Portfolio: https://abhi-singh.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/abhiranjan-singh72
+- GitHub: https://github.com/Abhi-7255
+- Email: abhiranjansingh7255@gmail.com
